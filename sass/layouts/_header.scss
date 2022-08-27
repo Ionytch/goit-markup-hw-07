@@ -49,18 +49,7 @@
     padding-bottom: 32px;
 }
 
-.index::after {
-    content: "";
-    position: absolute;
-    display: block;
-    width: 100%;
-    height: 5px;
-    background-color: #2196F3;
-    border-radius: 2px;
-    bottom: 0;
-}
-
-.portfolio::after {
+.navigation--underline::after {
     content: "";
     position: absolute;
     display: block;
